@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 90" width="420" height="90" role="img" aria-label="TradeTrack Pro">
+  <title>TradeTrack Pro</title>
+  <g transform="translate(20,18)">
+    <rect x="0" y="0" width="64" height="10" rx="2" fill="#E8742C"/>
+    <rect x="28" y="0" width="10" height="54" rx="2" fill="#E8742C"/>
+    <polyline points="5,47 17,36 30,42 44,22 58,13" fill="none" stroke="#1A1512" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="58" cy="13" r="4" fill="#1A1512"/>
+  </g>
+  <line x1="115" y1="25" x2="115" y2="65" stroke="#E8DFD0" stroke-width="1"/>
+  <text x="135" y="48" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="28" font-weight="500" letter-spacing="-0.5" fill="#2A2420">TradeTrack</text>
+  <text x="135" y="70" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif" font-size="13" font-weight="400" letter-spacing="1.5" fill="#8A7968">PRO</text>
+</svg>

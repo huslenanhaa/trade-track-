@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="TradeTrack Pro favicon">
+  <title>TradeTrack Pro</title>
+  <rect width="64" height="64" rx="10" fill="#FAF6F0"/>
+  <g transform="translate(13,14)">
+    <rect x="0" y="0" width="38" height="5" rx="1.5" fill="#E8742C"/>
+    <rect x="16.5" y="0" width="5" height="32" rx="1.5" fill="#E8742C"/>
+    <polyline points="3,28 11,21 19,25 27,14 35,8" fill="none" stroke="#1A1512" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="35" cy="8" r="2.5" fill="#1A1512"/>
+  </g>
+</svg>
