@@ -26,28 +26,22 @@ Trade Track Pro is a trading journal and analytics web application built with Re
 
 Install dependencies:
 
-```bash
 npm install
-```
 
 Run the development app:
 
-```bash
 npm run dev
-```
 
 Run the backend server:
 
-```bash
+
 npm run server
-```
+
 
 Build for production:
 
-```bash
 npm run build
-```
 
-## Notes
+ Notes
 
 The `node_modules`, `dist`, build output, and environment files are intentionally ignored from Git. After cloning the repository, run `npm install` before starting the project.
